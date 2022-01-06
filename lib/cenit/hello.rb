@@ -10,4 +10,6 @@ module Cenit
 end
 
 require 'cenit/hello/controller'
+require 'cenit/hello/initializer'
+require 'cenit/hello/installer'
 require 'cenit/hello/setup'
